@@ -1,0 +1,5 @@
+Indigo Hyderabad Delhi 20 20
+Vistara Mumbai Bhubaneswar 20 20
+Vistara Mumbai Guwahati 20 20
+Vistara Chennai Ahmedabad 20 20
+Indigo Chennai Bhubaneswar 20 20
