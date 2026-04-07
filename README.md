@@ -20,15 +20,6 @@ This is a simple flight reservation system written in C. It allows users to view
 - Persist flight and passenger data using text files
 
 ## How to build
-
-Open a terminal in the project directory and run:
-
-```sh
-cc CSD_Project.c -o flight_system
-```
-
-If your system uses `gcc`, you can also run:
-
 ```sh
 gcc CSD_Project.c -o flight_system
 ```
